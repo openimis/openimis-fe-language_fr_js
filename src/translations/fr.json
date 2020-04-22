@@ -495,12 +495,20 @@
     "medical.ServicePicker.null": "Tous",
     "location.locations.page.title": "",
     "location.healthFacilities.page.title": "",
-    "location.healthFacility.edit.page.title": "",
+    "location.healthFacility.edit.page.title": "ESA {code}",
     "claim.healthFacilityClaims.page.title": "",
     "claim.reviews.page.title": "",
     "claim.ClaimOfficerPicker.null": "",
     "claim.claimSummaries.openNewTab": "",
     "claim.edit.page.title": "",
     "claim_batch.claimBatch.page.title": "",
-    "location.healthFacilitySummaries.accCode": "Code comptable"
+    "location.healthFacilitySummaries.accCode": "Code comptable",
+    "location.HealthFacilityFilter.accCode": "Code comptable",
+    "location.HealthFacilityForm.code": "Code",
+    "location.HealthFacilityForm.accCode": "Code comptable",
+    "location.HealthFacilityForm.name": "Nom",
+    "location.HealthFacilityForm.address": "Adresse",
+    "location.HealthFacilityForm.phone": "Téléphone",
+    "location.HealthFacilityForm.fax": "Fax",
+    "location.HealthFacilityForm.email": "Couriel"
 }

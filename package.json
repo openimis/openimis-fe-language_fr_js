@@ -1,6 +1,6 @@
 {
   "name": "@openimis/fe-language_fr",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "AGPL-3.0-only",
   "description": "openIMIS French translations of reference modules",
   "repository": "openimis/openimis-fe-language_fr_js",
