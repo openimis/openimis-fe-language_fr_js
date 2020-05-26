@@ -1,4 +1,3 @@
-import React from "react";
 import messages_fr from "./translations/fr.json";
 
 const DEFAULT_CONFIG = {
