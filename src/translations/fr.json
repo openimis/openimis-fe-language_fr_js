@@ -779,5 +779,10 @@
     "policy.policies.balance": "Solde",
     "policy.policies.onlyActiveOrLastExpired": "Afficher seulement les dernières activies ou les dernières expirées",
     "policy.policies.noActivePolicy": "Pas de Police active",
-    "product.ProductPicker.null": "Tout"
+    "product.ProductPicker.null": "Tout",
+    "addTooltip": "Créer nouveau",
+    "saveTooltip": "Enregistrer les modifications",
+    "insuree.addNewFamilyTooltip": "Créer une nouvelle famille",
+    "insuree.addNewInsureeTooltip": "Créer un nouvel assuré",
+    "insuree.selectHeadInsuree.tooltip": "Sélectionner un assuré existant comme chef"
 }
