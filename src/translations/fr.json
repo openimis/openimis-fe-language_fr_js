@@ -1171,5 +1171,9 @@
     "admin.EnrolmentOfficerPicker.loadingText": "Chargement…",
     "admin.EnrolmentOfficerPicker.clearText": "Effacer",
     "admin.EnrolmentOfficerPicker.openText": "Ouvrir",
-    "admin.EnrolmentOfficerPicker.closeText": "Fermer"
+    "admin.EnrolmentOfficerPicker.closeText": "Fermer",
+    "location.LocationPicker.loadingText": "Chargement…",
+    "location.LocationPicker.clearText": "Effacer",
+    "location.LocationPicker.openText": "Ouvrir",
+    "location.LocationPicker.closeText": "Fermer"
 }
