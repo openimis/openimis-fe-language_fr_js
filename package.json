@@ -1,9 +1,9 @@
 {
-  "name": "openimis-fe-language_fr_ne",
+  "name": "@blsqne/fe-language_fr_ne",
   "version": "1.3.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS French translations of reference modules in Niger",
-  "repository": "BLQS/openimis-fe-language_fr_ne_js",
+  "repository": "BLSQ/openimis-fe-language_fr_ne_js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
