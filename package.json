@@ -1,9 +1,9 @@
 {
-  "name": "@openimis/fe-language_fr",
-  "version": "1.3.0",
+  "name": "@openimis/fe-language_fr_cmr_cs",
+  "version": "0.1.0",
   "license": "AGPL-3.0-only",
-  "description": "openIMIS French translations of reference modules in Niger",
-  "repository": "BLSQ/openimis-fe-language_fr_ne_js",
+  "description": "openIMIS French translations of reference modules in Cameroun Cheque Santé Project",
+  "repository": "mngoe/openimis-fe-language_fr_cmr_cs_js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
