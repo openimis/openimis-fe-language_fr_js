@@ -76,6 +76,7 @@
     "claim.ClaimFilter.district": "District",
     "claim.claimStatus": "Statut de la prestation",
     "claim.code": "N° de prestation",
+    "claim.codechfId": "Prefix Prestation",
     "claim.guaranteeId": "N° de garantie",
     "claim.claimStatus.null": "tous",
     "claim.claimStatus.1": "Rejeté",
