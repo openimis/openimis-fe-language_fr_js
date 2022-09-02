@@ -85,8 +85,8 @@
     "claim.claimStatus.16": "Évalué",
     "claim.ClaimFilter.claimNo": "N° de prestation",
     "claim.ClaimFilter.insureeCHFID": "N° de l'assuré(e)",
-    "claim.visitDateFrom": "Date de visite",
-    "claim.visitDateTo": "Date de visite",
+    "claim.visitDateFrom": "Date de visite du",
+    "claim.visitDateTo": "Date de visite à",
     "claim.claimedDate": "Date de prestation",
     "claim.claimed": "Réclamé",
     "claim.approved": "Approuvé",
@@ -264,9 +264,6 @@
     "insuree.Insuree.chfId": "N° d'assuré(e)",
     "insuree.Insuree.lastName": "Nom de famille",
     "insuree.Insuree.otherNames": "Autres noms",
-    "insuree.Insuree.dead": "Décédé ?",
-    "insuree.Insuree.dod": "Date de décés",
-    "insuree.Insuree.deathreason": "Raison décés",  
     "location.HealthFacilityFullPath.region": "Région",
     "location.HealthFacilityFullPath.district": "District",
     "location.HealthFacilityFullPath.healthFacility": "FOSA",
@@ -2105,5 +2102,8 @@
     "location.Location0Picker.label": "Région",
     "location.Location1Picker.label": "District",
     "insuree.IdentificationType.F": "Fiche d'identification",
-    "claim.codechfId": "Prefix Prestation"
+    "claim.codechfId": "Prefix Prestation",
+    "insuree.Insuree.dead": "Décédé ?",
+    "insuree.Insuree.dod": "Date de décés",
+    "insuree.Insuree.deathreason": "Raison du Décès"
 }
