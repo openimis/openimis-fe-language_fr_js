@@ -234,22 +234,22 @@
         "translation": "N° de garantie"
     },
     "claim.claimStatus.null": {
-        "translation": "tous"
+        "translation": "Tous"
     },
     "claim.claimStatus.1": {
-        "translation": "Rejeté"
+        "translation": "Rejetée"
     },
     "claim.claimStatus.2": {
-        "translation": "Entré à"
+        "translation": "Entrée"
     },
     "claim.claimStatus.4": {
-        "translation": "Vérifié"
+        "translation": "Vérifiée"
     },
     "claim.claimStatus.8": {
-        "translation": "Traité"
+        "translation": "Traitée"
     },
     "claim.claimStatus.16": {
-        "translation": "Évalué"
+        "translation": "Évaluée"
     },
     "claim.ClaimFilter.claimNo": {
         "translation": "N° de prestation"
@@ -1497,7 +1497,7 @@
         "translation": "Vérifications"
     },
     "claim.ClaimOfficerPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "claim.claimSummaries.openNewTab": {
         "translation": "."
@@ -1566,7 +1566,7 @@
         "translation": "Type de paiement"
     },
     "contribution.premium.payType.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "contribution.premium.payType.C": {
         "translation": "Espèces"
@@ -1635,7 +1635,7 @@
         "translation": "Genre"
     },
     "insuree.InsureeGender.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.InsureeGender.none": {
         "translation": "Aucun"
@@ -1653,7 +1653,7 @@
         "translation": "Agent"
     },
     "insuree.InsureeOfficer.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.InsureeOfficer.none": {
         "translation": "Aucun"
@@ -1662,7 +1662,7 @@
         "translation": "État matrimonial"
     },
     "insuree.InsureeMaritalStatus.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.InsureeMaritalStatus.none": {
         "translation": "Aucun"
@@ -1686,7 +1686,7 @@
         "translation": "Statut de pauvreté"
     },
     "insuree.Family.povertyStatus.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.Family.povertyStatus.true": {
         "translation": "Oui"
@@ -1812,7 +1812,7 @@
         "translation": "Type de confirmation"
     },
     "insuree.ConfirmationType.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.ConfirmationType.A": {
         "translation": "Autorité locale"
@@ -1854,7 +1854,7 @@
         "translation": "Éducation"
     },
     "insuree.Education.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.Education.none": {
         "translation": "Aucun"
@@ -1884,7 +1884,7 @@
         "translation": "Profession"
     },
     "insuree.Profession.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.Profession.none": {
         "translation": "Aucun"
@@ -1905,7 +1905,7 @@
         "translation": "Relation"
     },
     "insuree.Relation.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.Relation.none": {
         "translation": "Aucun"
@@ -1938,7 +1938,7 @@
         "translation": "Type d'ID"
     },
     "insuree.IdentificationType.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.IdentificationType.none": {
         "translation": "Aucun"
@@ -2052,7 +2052,7 @@
         "translation": "Statut de la photo"
     },
     "insuree.PhotoStatus.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "insuree.PhotoStatus.with": {
         "translation": "Avec"
@@ -2175,7 +2175,7 @@
         "translation": "Municipalité"
     },
     "location.Location2Picker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "location.Location2Picker.none": {
         "translation": "Aucun"
@@ -2184,7 +2184,7 @@
         "translation": "Village"
     },
     "location.Location3Picker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "location.Location3Picker.none": {
         "translation": "Aucun"
@@ -2211,7 +2211,7 @@
         "translation": "Payeur"
     },
     "payer.PayerPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "payment.PremiumsPayments": {
         "translation": "{count} Paiements"
@@ -2241,7 +2241,7 @@
         "translation": "Statut"
     },
     "payment.payment.status.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "payment.payment.status.none": {
         "translation": "."
@@ -2277,7 +2277,7 @@
         "translation": "{count} Politices de l'assuré {chfId}"
     },
     "policy.policies.productCode": {
-        "translation": "Code produit"
+        "translation": "Code Paquet de bénéfice"
     },
     "policy.policies.productName": {
         "translation": "Nom"
@@ -2340,7 +2340,7 @@
         "translation": "Pas de Police active"
     },
     "product.ProductPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "addTooltip": {
         "translation": "Créer nouveau"
@@ -2394,7 +2394,7 @@
         "translation": "Agent"
     },
     "policy.PolicyOfficerPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "policy.PolicyOfficer.none": {
         "translation": "Aucun"
@@ -2442,7 +2442,7 @@
         "translation": "Statut"
     },
     "policy.PolicyStatus.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "policy.PolicyStatus.none": {
         "translation": "Aucun"
@@ -2466,7 +2466,7 @@
         "translation": "Type"
     },
     "policy.PolicyStage.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "policy.PolicyStage.N": {
         "translation": "Nouvelle police"
@@ -2493,7 +2493,7 @@
         "translation": "Expiration"
     },
     "policy.policySummaries.product": {
-        "translation": "Produit"
+        "translation": "Paquet de bénéfice"
     },
     "policy.policySummaries.officer": {
         "translation": "Agent"
@@ -2601,7 +2601,7 @@
         "translation": "Avertissement sur les valeurs de la police :"
     },
     "policy.policyValues.alert.message": {
-        "translation": "La famille compte plus d'assurés que le nombre maximum de membres autorisé pour le produit sélectionné. Toutefois, la police peut encore être créée. Voulez-vous continuer ?"
+        "translation": "La famille compte plus d'assurés que le nombre maximum de membres autorisé pour le produit sélectionné. Tousefois, la police peut encore être créée. Voulez-vous continuer ?"
     },
     "product.Product.none": {
         "translation": "Aucun"
@@ -2628,7 +2628,7 @@
         "translation": "Contribution"
     },
     "contribution.category.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "contribution.category.photoFee": {
         "translation": "Frais de photo"
@@ -2685,7 +2685,7 @@
         "translation": "Téléphone portable"
     },
     "contribution.payType.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "contribution.policy": {
         "translation": "N°  de police"
@@ -2877,7 +2877,7 @@
         "translation": "Filtrage par lieux au moins au niveau de la région requis"
     },
     "medical.careType.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "medical.serviceType": {
         "translation": "Type de service"
@@ -2886,7 +2886,7 @@
         "translation": "Aucun"
     },
     "medical.serviceType.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "medical.serviceType.P": {
         "translation": "Préventif"
@@ -2901,7 +2901,7 @@
         "translation": "Aucun"
     },
     "medical.itemType.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "medical.itemType.D": {
         "translation": "Médicament"
@@ -3246,7 +3246,7 @@
         "translation": "."
     },
     "core.roleManagement.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "core.roleManagement.true": {
         "translation": "Vrai"
@@ -3333,13 +3333,13 @@
         "translation": "Langue"
     },
     "core.Language.null": {
-        "translation": ""
+        "translation": "Sèl."
     },
     "admin.UserPicker.label": {
         "translation": "Utilisateur"
     },
     "admin.UserPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "admin.showHistory": {
         "translation": "Afficher les valeurs historiques"
@@ -3456,7 +3456,7 @@
         "translation": "."
     },
     "admin.user.userTypes.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "admin.user.username": {
         "translation": "Identifiant d'utilisateur"
@@ -3504,7 +3504,7 @@
         "translation": "Détails de connexion"
     },
     "admin.UserMasterPanel.language.null": {
-        "translation": "Sélectionner la langue"
+        "translation": "Sél."
     },
     "admin.EnrolmentOfficerPicker.loadingText": {
         "translation": "Chargement…"
@@ -3846,7 +3846,7 @@
         "translation": "Date de paie"
     },
     "payer.product": {
-        "translation": "Produit"
+        "translation": "Paquet de bénéfice"
     },
     "payer.amount": {
         "translation": "Montant"
@@ -3855,7 +3855,7 @@
         "translation": "Reçu"
     },
     "payer.type.null": {
-        "translation": "Sélectionner un type"
+        "translation": "Sél."
     },
     "payer.type.C": {
         "translation": "Coopérative"
@@ -3987,7 +3987,7 @@
         "translation": "{policyHoldersTotalCount} Titulaires de polices trouvés"
     },
     "policyHolder.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "policyHolder.emptyLabel": {
         "translation": " "
@@ -4161,7 +4161,7 @@
         "translation": "{policyHolderContributionPlanBundlesTotalCount} Paquets de régimes de cotisation trouvés"
     },
     "policyHolder.policyHolderContributionPlanBundle.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "policyHolder.policyHolderContributionPlanBundle.createPolicyHolderContributionPlanBundle": {
         "translation": "Créer un nouvel paquet de régimes de cotisation"
@@ -4230,7 +4230,7 @@
         "translation": "{newUser} remplace {oldUser} sur {policyHolder}"
     },
     "product.ProductPicker.placeholder": {
-        "translation": "Rechercher un produit..."
+        "translation": "Rechercher un Paquet de bénéfice..."
     },
     "product.name": {
         "translation": "Nom"
@@ -4293,7 +4293,7 @@
         "translation": "Cycle 4"
     },
     "product.CycleInput.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "product.CycleInput.date": {
         "translation": "Date"
@@ -4359,19 +4359,19 @@
         "translation": "Afficher les valeurs historiques"
     },
     "product.ProductSearcher.tableTitle": {
-        "translation": "{count} Produits"
+        "translation": "{count} Paquets de bénéfice"
     },
     "product.ProductSearcher.deleteProductTooltip": {
-        "translation": "Supprimer le produit"
+        "translation": "Supprimer le Paquet de bénéfice"
     },
     "product.ProductSearcher.openNewTab": {
         "translation": "Ouvrir dans un nouvel onglet"
     },
     "product.ProductForm.title": {
-        "translation": "Produit {label}"
+        "translation": "Paquet de bénéfice {label}"
     },
     "product.ProductForm.emptyTitle": {
-        "translation": "Nouveau produit"
+        "translation": "Nouveau Paquet de bénéfice"
     },
     "product.FormMainPanel.validitySectionTitle": {
         "translation": "Validité"
@@ -4488,13 +4488,13 @@
         "translation": "Sous-type"
     },
     "product.ProductsPage.addNewProduct": {
-        "translation": "Ajouter un nouveau produit"
+        "translation": "Ajouter un nouveau Paquet de bénéfice"
     },
     "product.deleteProductDialog.title": {
-        "translation": "Supprimer le produit"
+        "translation": "Supprimer le Paquet de bénéfice"
     },
     "product.deleteProductDialog.message": {
-        "translation": "Êtes-vous sûr de vouloir supprimer le produit {nom} ?"
+        "translation": "Êtes-vous sûr de vouloir supprimer le Paquet de bénéfice {nom} ?"
     },
     "product.ItemsOrServicesGrid.code": {
         "translation": "Code"
@@ -4602,7 +4602,7 @@
         "translation": "Actions"
     },
     "product.ProductItemsDialog.description": {
-        "translation": "Recherchez les éléments que vous voulez ajouter dans ce produit."
+        "translation": "Recherchez les éléments que vous voulez ajouter dans ce paquet de bénéfice."
     },
     "product.ProductItemsDialog.submit": {
         "translation": "Ajouter {count} éléments"
@@ -4785,7 +4785,7 @@
         "translation": "Exécution par lots"
     },
     "claim_batch.BatchRunWithLocationPicker.null": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "claim_batch.BatchRunWithLocationPicker.emptyLabel": {
         "translation": " "
@@ -4878,13 +4878,13 @@
         "translation": "Assuré n°."
     },
     "contract.benefitPlan": {
-        "translation": "Produit d'assurance"
+        "translation": "Paquet de bénéfice"
     },
     "contract.emptyLabel": {
         "translation": " "
     },
     "contract.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "contract.ContractStatePicker.requestForInformation": {
         "translation": "Demande d'informations"
@@ -5151,7 +5151,7 @@
         "translation": "Règle de calcul"
     },
     "contributionPlan.benefitPlan": {
-        "translation": "Produit d'assurance"
+        "translation": "Paquet de bénéfice"
     },
     "contributionPlan.periodicity": {
         "translation": "Périodicité"
@@ -5169,7 +5169,7 @@
         "translation": " "
     },
     "contributionPlan.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "contributionPlan.contributionPlan.createButton.tooltip": {
         "translation": "Créer un nouveau régime de cotisation"
@@ -5298,7 +5298,7 @@
         "translation": "Règle de calcul"
     },
     "paymentPlan.benefitPlan": {
-        "translation": "Garanties couvertes par le produit"
+        "translation": "Garanties couvertes par le paquet de bénéfice"
     },
     "paymentPlan.periodicity": {
         "translation": "Périodicité (nombre de mois)"
@@ -5316,7 +5316,7 @@
         "translation": " "
     },
     "paymentPlan.any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "paymentPlan.editButton.tooltip": {
         "translation": "Modifier"
@@ -5390,7 +5390,7 @@
         "translation": " "
     },
     "any": {
-        "translation": "Tout"
+        "translation": "Tous"
     },
     "editButtonTooltip": {
         "translation": "Modifier"
@@ -5479,6 +5479,12 @@
             },
             "SUSPENDED": {
                 "translation": "Suspendu"
+            },
+            "UNPAID": {
+                "translation": "Non payé"
+            },
+            "RECONCILIATED": {
+                "translation": "Réconcilié"
             }
         },
         "currencyTpCode": {
@@ -5754,6 +5760,12 @@
             },
             "SUSPENDED": {
                 "translation": "Suspendu"
+            },
+            "UNPAID": {
+                "translation": "Non payé"
+            },
+            "RECONCILIATED": {
+                "translation": "Réconcilié"
             }
         },
         "currencyTpCode": {
@@ -6306,7 +6318,7 @@
         "translation": "Afficher uniquement les réconciliés"
     },
     "contribution.alreadyUsed": {
-        "translation": "Reçu déjà utilisé pour le produit {productCode}"
+        "translation": "Reçu déjà utilisé pour le Paquet de bénéfice {productCode}"
     },
     "location.HealthFacilityForm.codeTaken": {
         "translation": "Ce code est déjà utilisé"
@@ -6324,7 +6336,7 @@
         "translation": "Ce code est déjà utilisé"
     },
     "product.alreadyTaken": {
-        "translation": "Code du produit déjà utilisé"
+        "translation": "Code du paquet de bénéfice déjà utilisé"
     },
     "admin.user.emailAlreadyTaken": {
         "translation": "E-mail de l'utilisateur déjà utilisé"
@@ -6429,10 +6441,10 @@
         "translation": "Le code de contrat existe déjà"
     },
     "product.ProductSearcher.duplicateProductTooltip": {
-        "translation": "Dupliquer produit"
+        "translation": "Dupliquer Paquet de bénéfice"
     },
     "product.duplicateMutation.label": {
-        "translation": "Dupliquer produit {name}"
+        "translation": "Dupliquer Paquet de bénéfice {name}"
     },
     "product.DeductiblesCeilingsTabForm.inPatient": {
         "translation": "Hospitalisation"
@@ -6456,10 +6468,10 @@
         "translation": "Format d'email invalide"
     },
     "policy.PolicyFilter.product.label": {
-        "translation": "Produit"
+        "translation": "Paquet de bénéfice"
     },
     "policy.PolicyFilter.product.placeholder": {
-        "translation": "Rechercher un produit..."
+        "translation": "Rechercher un paquet de bénéfice..."
     },
     "contribution.addContributionDialog.maxINstallments.title": {
         "translation": "Limite des tranches franchise"
@@ -6495,7 +6507,7 @@
         "translation": "Rechercher un district..."
     },
     "product.ProductPicker.aboveLimit": {
-        "translation": "Produits au-dessus de la {limit} trouvés. Pour des résultats spécifiques, veuillez utiliser la barre de recherche."
+        "translation": "Paquet de bénéfice au-dessus de la {limit} trouvés. Pour des résultats spécifiques, veuillez utiliser la barre de recherche."
     },
     "contributionPlan.showHistory": {
         "translation": "Histoire de l'exposition"
@@ -6513,10 +6525,10 @@
         "translation": "Afficher supprimé"
     },
     "claim.codeTaken": {
-        "translation": "Le code de réclamation existe déjà"
+        "translation": "Le code de prestation existe déjà"
     },
     "ClaimMasterPanelExt.InsureeLastVisit.thisClaimIsLastVisit": {
-        "translation": "Il s'agit de la dernière visite (réclamation)"
+        "translation": "Il s'agit de la dernière visite (prestation)"
     },
     "claim.edit.items.pricevaluated": {
         "translation": "Valorisé"
@@ -6660,13 +6672,13 @@
         "translation": "Afficher uniquement les réconciliés"
     },
     "product.createMutation.label": {
-        "translation": "Créer le produit {name}"
+        "translation": "Créer le Paquet de bénéfice {name}"
     },
     "product.updateMutation.label": {
-        "translation": "Mise à jour du produit {name}"
+        "translation": "Mise à jour du Paquet de bénéfice {name}"
     },
     "product.deleteMutation.label": {
-        "translation": "Supprimer le produit {name}"
+        "translation": "Supprimer le Paquet de bénéfice {name}"
     },
     "product.DeductiblesCeilingsTabForm.non_hospitals": {
         "translation": ""
@@ -6741,7 +6753,7 @@
         "translation": "Statut"
     },
     "location.HealthFacilityForm.status.null": {
-        "translation": "Tous"
+        "translation": "Sèl."
     },
     "location.HealthFacilityMasterPanel.careType.nullLabel": {
         "translation": "Sélectionner le type de soins"
@@ -6816,7 +6828,7 @@
         "translation": "Exécution par lots"
     },
     "core.UserActivityReport.entity.ClaimAdmin": {
-        "translation": "Administrateur des réclamations"
+        "translation": "Administrateur des prestations"
     },
     "core.UserActivityReport.entity.Location": {
         "translation": "Localisation"
@@ -6867,10 +6879,10 @@
         "translation": "Prime"
     },
     "core.UserActivityReport.entity.Product": {
-        "translation": "Produit"
+        "translation": "Paquet de bénéfice"
     },
     "core.UserActivityReport.entity.ProductItem": {
-        "translation": "Article du produit"
+        "translation": "Article du paquet de bénéfice"
     },
     "core.UserActivityReport.entity.ProductService": {
         "translation": "Service des produits"
@@ -7876,5 +7888,419 @@
     },
     "tasksManagement.menu.taskExecutionerGroups": {
         "translation": "Groupes d'exécutants de tâches"
+    },
+    "ClaimMasterPanelExt.sameDiagnosisClaim.noClaim": {
+        "translation": "Prestation avec le même diagnostic introuvable."
+    },
+    "ClaimMasterPanelExt.sameDiagnosisClaim.onlyThis": {
+        "translation": "Seule prestation avec un tel diagnostic."
+    },
+    "ClaimMasterPanelExt.InsureeInfo.Header": {
+        "translation": "Informations sur l'assuré"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.insureeAge": {
+        "translation": "Âge de l'assuré"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.lastClaim": {
+        "translation": "Dernière prestation"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.visitDuration": {
+        "translation": "Durée de la visite"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.FSP": {
+        "translation": "PSP"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.lastClaimSameDiagnosis.Header": {
+        "translation": "Prestation pour le même diagnostic"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.lastClaimSameDiagnosis": {
+        "translation": "Dernière prestation avec le même diagnostic"
+    },
+    "ClaimMasterPanelExt.InsureeInfo.goToClaim.Button": {
+        "translation": "Aller à la prestation"
+    },
+    "claim.ClaimsOverviewReport.dateStart": {
+        "translation": "Date du"
+    },
+    "claim.ClaimsOverviewReport.dateEnd": {
+        "translation": "Date à"
+    },
+    "claim.ClaimsOverviewReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "claim.ClaimsOverviewReport.region": {
+        "translation": "Région"
+    },
+    "claim.ClaimsOverviewReport.district": {
+        "translation": "District"
+    },
+    "claim.ClaimsOverviewReport.hf": {
+        "translation": "Formation Sanitaire"
+    },
+    "claim.ClaimsOverviewReport.claimStatus": {
+        "translation": "Statut de la prestation"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.null": {
+        "translation": "Tous"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.1": {
+        "translation": "rejetée"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.2": {
+        "translation": "Entrée"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.4": {
+        "translation": "Vérifiée"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.8": {
+        "translation": "Traitée"
+    },
+    "claim.ClaimsOverviewReport.claimStatus.16": {
+        "translation": "valorisée"
+    },
+    "claim.ClaimHistoryReport.dateStart": {
+        "translation": "Date du"
+    },
+    "claim.ClaimHistoryReport.dateEnd": {
+        "translation": "Date à"
+    },
+    "claim.ClaimHistoryReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "claim.ClaimHistoryReport.insuree": {
+        "translation": "Assuré"
+    },
+    "claim.ClaimHistoryReport.region": {
+        "translation": "Région"
+    },
+    "claim.ClaimHistoryReport.district": {
+        "translation": "District"
+    },
+    "claim.ClaimHistoryReport.hf": {
+        "translation": "Formation Sanitaire"
+    },
+    "claim.ClaimHistoryReport.claimStatus": {
+        "translation": "Statut de la prestation"
+    },
+    "claim.ClaimHistoryReport.claimStatus.null": {
+        "translation": "Tous"
+    },
+    "claim.ClaimHistoryReport.claimStatus.1": {
+        "translation": "Rejetée"
+    },
+    "claim.ClaimHistoryReport.claimStatus.2": {
+        "translation": "Entrée"
+    },
+    "claim.ClaimHistoryReport.claimStatus.4": {
+        "translation": "Vérifiée"
+    },
+    "claim.ClaimHistoryReport.claimStatus.8": {
+        "translation": "Traitée"
+    },
+    "claim.ClaimHistoryReport.claimStatus.16": {
+        "translation": "Valorisée"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.year": {
+        "translation": "Année"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.month": {
+        "translation": "Mois"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.region": {
+        "translation": "Région"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.district": {
+        "translation": "District"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.hf": {
+        "translation": "Formation Sanitaire"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter": {
+        "translation": "Trimestre"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter.null": {
+        "translation": "Tous"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter.1": {
+        "translation": "T1"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter.2": {
+        "translation": "T2"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter.3": {
+        "translation": "T3"
+    },
+    "claim.ClaimsPrimaryOperationalIndicators.quarter.4": {
+        "translation": "T4"
+    },
+    "claim.attachmentType.null": {
+        "translation": "Tous"
+    },
+    "claim.attachmentType.Bill": {
+        "translation": "Facture fournisseur"
+    },
+    "claim.attachmentType.Medical": {
+        "translation": "Médical"
+    },
+    "claim.attachmentType.Diagnosis": {
+        "translation": "Diagnostic"
+    },
+    "claim.justification": {
+        "translation": "Justification"
+    },
+    "claim.justification.null": {
+        "translation": "Tous"
+    },
+    "claim.justification.1": {
+        "translation": "Inclus dans l'ambulatoire"
+    },
+    "claim.justification.2": {
+        "translation": "Erreur"
+    },
+    "claim.justification.4": {
+        "translation": "Par jour"
+    },
+    "claim.justification.8": {
+        "translation": "Soins intensifs"
+    },
+    "claim.justification.16": {
+        "translation": "Paquet chirurgical"
+    },
+    "claim.justification.32": {
+        "translation": "Ajusté pour un mineur"
+    },
+    "claim.justification.64": {
+        "translation": "Intermédiaire"
+    },
+    "claim.justification.128": {
+        "translation": "Chirurgie lourde"
+    },
+    "claim.edit.services.rejectall": {
+        "translation": "Rejeter tous les services"
+    },
+    "claim.sn": {
+        "translation": ""
+    },
+    "claim.edit.items.rejectall": {
+        "translation": "Rejeter tous les produits médicaux"
+    },
+    "claim.ClaimChildPanel.review.explanationRequired": {
+        "translation": "Explication requise si la quantité fournie est supérieure à {threshold} ."
+    },
+    "claim.calculateAge.util.dobNotProvided": {
+        "translation": "Date de naissance non fournie"
+    },
+    "claim.calculateAge.util.days": {
+        "translation": "Jour"
+    },
+    "claim.calculateAge.util.weeks": {
+        "translation": "Année"
+    },
+    "claim.calculateAge.util.months": {
+        "translation": "Mois"
+    },
+    "claim.calculateAge.util.years": {
+        "translation": "Année"
+    },
+    "contribution.PremiumCollectionReport.dateStart": {
+        "translation": "Date du"
+    },
+    "contribution.PremiumCollectionReport.dateEnd": {
+        "translation": "Date à"
+    },
+    "contribution.PremiumCollectionReport.region": {
+        "translation": "Région"
+    },
+    "contribution.PremiumCollectionReport.district": {
+        "translation": "District"
+    },
+    "contribution.PremiumCollectionReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "contribution.PremiumCollectionReport.paymentType": {
+        "translation": "Type de paiement"
+    },
+    "contribution.PremiumCollectionReport.paymentType.null": {
+        "translation": "Tous"
+    },
+    "contribution.PremiumCollectionReport.paymentType.C": {
+        "translation": "Espèces"
+    },
+    "contribution.PremiumCollectionReport.paymentType.B": {
+        "translation": "Virement bancaire"
+    },
+    "contribution.PremiumCollectionReport.paymentType.M": {
+        "translation": "Téléphone mobile"
+    },
+    "contribution.PaymentCategoryOverviewReport.dateStart": {
+        "translation": "Date du"
+    },
+    "contribution.PaymentCategoryOverviewReport.dateEnd": {
+        "translation": "Date à"
+    },
+    "contribution.PaymentCategoryOverviewReport.region": {
+        "translation": "Région"
+    },
+    "contribution.PaymentCategoryOverviewReport.district": {
+        "translation": "District"
+    },
+    "contribution.PaymentCategoryOverviewReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "contribution.ContributionsDistributionReport.month": {
+        "translation": "Mois"
+    },
+    "contribution.ContributionsDistributionReport.year": {
+        "translation": "Année"
+    },
+    "contribution.ContributionsDistributionReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "core.LoginPage.authMPassError": {
+        "translation": "Erreur de connexion. Réessayez."
+    },
+    "core.LoginPage.loginWithMPass": {
+        "translation": "Se connecter avec MPass"
+    },
+    "insuree.Insuree.searchCriteria": {
+        "translation": "Critères de recherche"
+    },
+    "insuree.Insuree.nationalId": {
+        "translation": "ID National"
+    },
+    "insuree.insureeSummaries.goToTheProfile": {
+        "translation": "Aller au profil"
+    },
+    "insuree.showInsureeSearchCriteria.tooltip": {
+        "translation": "Trouver un assuré"
+    },
+    "insuree.closeInsureeSearchCriteria.tooltip": {
+        "translation": "Fermer les critères de recherche"
+    },
+    "insuree.resetFilters.tooltip": {
+        "translation": "Réinitialiser les critères de recherche"
+    },
+    "insuree.searchAgain.tooltip": {
+        "translation": "Chercher à nouveau"
+    },
+    "insuree.InsureeSummary.insureeLocation": {
+        "translation": "Adresse : {location}"
+    },
+    "insuree.Insuree.status": {
+        "translation": "Statut"
+    },
+    "insuree.Insuree.status.null": {
+        "translation": "Sél."
+    },
+    "insuree.Insuree.status.AC": {
+        "translation": "Actif"
+    },
+    "insuree.Insuree.status.DE": {
+        "translation": "Mort"
+    },
+    "insuree.Insuree.status.IN": {
+        "translation": "Inactif"
+    },
+    "insuree.Insuree.statusDate": {
+        "translation": "Date du statut"
+    },
+    "insuree.Insuree.statusReason": {
+        "translation": "Raison"
+    },
+    "insuree.InsureeReasonPicker.placeholder": {
+        "translation": "Rechercher la raison..."
+    },
+    "insuree.FamilyMembersTable.InsuranceNo": {
+        "translation": "N° d'assuré"
+    },
+    "insuree.FamilyMembersTable.memberName": {
+        "translation": "Membres"
+    },
+    "insuree.FamilyMembersTable.phone": {
+        "translation": "Téléphone"
+    },
+    "payment.payment.status.-5": {
+        "translation": "Échec de correspondance"
+    },
+    "payment.payment.status.-4": {
+        "translation": "Échec de la Réception du Paiement"
+    },
+    "payment.payment.status.0": {
+        "translation": "Annulé"
+    },
+    "policy.PolicyRenewalsReport.dateStart": {
+        "translation": "Date du"
+    },
+    "policy.PolicyRenewalsReport.dateEnd": {
+        "translation": "Date à"
+    },
+    "policy.PolicyRenewalsReport.region": {
+        "translation": "Région"
+    },
+    "policy.PolicyRenewalsReport.district": {
+        "translation": "District"
+    },
+    "policy.PolicyRenewalsReport.product": {
+        "translation": "Paquet de bénéfice"
+    },
+    "policy.PolicyRenewalsReport.officer": {
+        "translation": "Agent"
+    },
+    "policy.PolicyRenewalsReport.sorting": {
+        "translation": "Tri"
+    },
+    "policy.PolicyRenewalsReport.sorting.null": {
+        "translation": "Tous"
+    },
+    "policy.PolicyRenewalsReport.sorting.D": {
+        "translation": "par date de renouvellement"
+    },
+    "policy.PolicyRenewalsReport.sorting.R": {
+        "translation": "par numéro du reçu"
+    },
+    "policy.PolicyRenewalsReport.sorting.O": {
+        "translation": "par agent"
+    },
+    "policyHolder.EconomicUnitPicker.label": {
+        "translation": "Unité économique"
+    },
+    "policyHolder.selectEconomicUnit.title": {
+        "translation": "Sélectionner l'unité économique"
+    },
+    "policyHolder.selectEconomicUnit.message": {
+        "translation": "Sélectionnez l'unité économique avec laquelle vous souhaitez travailler."
+    },
+    "policyHolder.selectEconomicUnit.confirm": {
+        "translation": "Confirmer"
+    },
+    "policyHolder.selectEconomicUnit.logout": {
+        "translation": "Déconnexion"
+    },
+    "policyHolder.EconomicUnitChangeButton.tooltip": {
+        "translation": "Changer l'unité économique"
+    },
+    "product.ProductSalesReport.dateFrom": {
+        "translation": "Du"
+    },
+    "product.ProductSalesReport.dateTo": {
+        "translation": "à"
+    },
+    "product.ProductSalesReport.region": {
+        "translation": "Région"
+    },
+    "product.ProductSalesReport.district": {
+        "translation": "District"
+    },
+    "product.ProductDerivedOperationalIndicators.month": {
+        "translation": "Mois"
+    },
+    "product.ProductDerivedOperationalIndicators.year": {
+        "translation": "Année"
+    },
+    "product.ProductDerivedOperationalIndicators.product": {
+        "translation": "Paquet de bénéfice"
     }
 }
