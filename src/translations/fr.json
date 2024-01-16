@@ -1,4 +1,37 @@
 {
+    "appName": "openIMIS",
+    "close": "Fermer",
+    "currency": "$",
+    "rowsPerPage": "Lignes par page",
+    "ofPages": "de",
+    "selectAll": "Sélectionner tout",
+    "clearSelected": "Effacer la sélection",
+    "search.title": "Critères de recherche",
+    "search.apply": "Posez votre candidature",
+    "search.dialog.title": "Adapter les critères de recherche",
+    "picker.close": "Fermer",
+    "picker.select": "Sélectionnez",
+    "noRecord": "Pas d'enregistrement à afficher",
+    "row.actions": "Actions",
+    "row.delete": "Êtes-vous sûr de supprimer cette ligne ?",
+    "year": "Année",
+    "year.null": "tous",
+    "year.select": " ",
+    "month": "Mois",
+    "month.null": "tous",
+    "month.select": " ",
+    "month.1": "Janvier",
+    "month.2": "Février",
+    "month.3": "Mars",
+    "month.4": "Avril",
+    "month.5": "Mai",
+    "month.6": "Juin",
+    "month.7": "Juillet",
+    "month.8": "Août",
+    "month.9": "Septembre",
+    "month.10": "Octobre",
+    "month.11": "Novembre",
+    "month.12": "Décembre",
     "admin.mainMenu": "Administration",
     "admin.menu.products": "Paquet de bénéfices",
     "admin.menu.healthFacilities": "Établissements de santé",
@@ -879,8 +912,8 @@
     "medical.serviceLevel.null": "Aucun",
     "medical.serviceLevel.S": "Soin ordinaire",
     "medical.serviceLevel.V": "Visite",
-    "medical.serviceLevel.D": "Jour de séjour ",
-    "medical.serviceLevel.H": "Cas d'hospitalisation",
+    "medical.serviceLevel.D": "Ambulatoire",
+    "medical.serviceLevel.H": "Hospitalisation",
     "medical.patientCategory.1": "Homme",
     "medical.patientCategory.2": "Femme",
     "medical.patientCategory.4": "Adulte",
@@ -1599,17 +1632,331 @@
     "paymentPlan.UpdatePaymentPlan.mutationLabel": "Mise à jour du plan de paiement - {label}",
     "paymentPlan.DeletePaymentPlan.mutationLabel": "Supprimer le plan de paiement - {label}",
     "paymentPlan.ReplacePaymentPlan.mutationLabel": "Remplacer le plan de paiement - {label}",
-    "mainMenu": "Services juridiques et financiers",
-    "emptyLabel": " ",
-    "any": "Tous",
+    "mainMenu": "Juridique et financier",
+    "menu": {
+        "invoices": "Factures",
+        "bills": "Factures"
+    },
+    "emptyLabel": "",
+    "any": "Tout",
     "editButtonTooltip": "Modifier",
     "deleteButtonTooltip": "Supprimer",
+    "dialog": {
+        "create": "Créer",
+        "update": "Sauvez",
+        "cancel": "Annuler"
+    },
+    "invoice": {
+        "pageTitle": "Facture {label}",
+        "headPanelTitle": "Informations générales",
+        "subject": "Sujet",
+        "thirdparty": "Bénéficiaire",
+        "code": "Code",
+        "codeTp": "Code Destinataire",
+        "codeExt": "Code Système externe",
+        "dateDue": "Date d'échéance",
+        "dateInvoice": "Date de la facture",
+        "dateValidFrom": "De",
+        "dateValidTo": "A",
+        "datePayed": "Date de paiement",
+        "amountDiscount": "Remise",
+        "amountNet": "Net",
+        "taxAnalysis": "Taxe",
+        "amountTotal": "Montant Total",
+        "status": {
+            "label": "Statut",
+            "DRAFT": "Draft",
+            "VALIDATED": "Validé",
+            "PAYED": "Payé",
+            "CANCELLED": "Annulé",
+            "DELETED": "Supprimé",
+            "SUSPENDED": "Suspendu"
+        },
+        "currencyTpCode": "Devise Bénéficiaire",
+        "currencyCode": "Monnaie",
+        "note": "Note",
+        "terms": "Conditions",
+        "paymentReference": "Référence de paiement",
+        "delete": {
+            "confirm": {
+                "title": "Supprimer {code} ?",
+                "message": "La suppression des données ne signifie pas leur effacement de la base de données openIMIS. La donnée sera seulement désactivée de la liste consultée."
+            },
+            "mutationLabel": "Supprimer la facture {code}"
+        }
+    },
+    "invoices": {
+        "pageTitle": "Factures",
+        "searcherResultsTitle": "{invoicesTotalCount} Factures trouvées"
+    },
+    "invoiceLineItems": {
+        "label": "Articles de ligne",
+        "searcherResultsTitle": "{invoiceLineItemsTotalCount} Articles de ligne trouvés"
+    },
+    "invoiceLineItem": {
+        "code": "Code",
+        "description": "Description",
+        "ledgerAccount": "Compte de grand livre",
+        "quantity": "Quantité",
+        "unitPrice": "Prix unitaire",
+        "discount": "Remise",
+        "deduction": "Déduction",
+        "amountTotal": "Montant Total",
+        "amountNet": "Montant net",
+        "amountNetTooltip": "Taxe : {valeur}"
+    },
+    "invoicePayments": {
+        "label": "Paiements",
+        "searcherResultsTitle": "{invoicePaymentsTotalCount} Paiements trouvés"
+    },
+    "invoicePayment": {
+        "status": {
+            "label": "Statut",
+            "REJECTED": "Rejeté",
+            "ACCEPTED": "Accepté",
+            "REFUNDED": "Remboursé",
+            "CANCELLED": "Annulé"
+        },
+        "codeExt": "Code",
+        "label": "Étiquette",
+        "codeTp": "Code Tiers",
+        "codeReceipt": "Numéro du reçu",
+        "amountPayed": "Montant payé",
+        "fees": "Droits d'inscription",
+        "amountReceived": "Montant reçu",
+        "datePayment": "Date de paiement",
+        "paymentOrigin": "Origine du paiement",
+        "create": {
+            "label": "Créer un nouveau paiement",
+            "mutationLabel": "Créer un paiement de facture {invoicePaymentLabel} pour {invoiceCode}."
+        },
+        "update": {
+            "label": "Mise à jour du paiement",
+            "mutationLabel": "Mise à jour du paiement de la facture {invoicePaymentLabel} de {invoiceCode}."
+        },
+        "delete": {
+            "confirm": {
+                "title": "Supprimer {invoicePaymentLabel} ?",
+                "message": "La suppression des données ne signifie pas leur effacement de la base de données openIMIS. La donnée sera seulement désactivée de la liste consultée."
+            },
+            "mutationLabel": "Supprimer le paiement de la facture {invoicePaymentLabel} de {invoiceCode}."
+        }
+    },
+    "invoiceEvents": {
+        "label": "Événements",
+        "searcherResultsTitle": "{invoiceEventsTotalCount} Événements trouvés"
+    },
+    "invoiceEvent": {
+        "eventType": {
+            "label": "Type",
+            "MESSAGE": "Message",
+            "STATUS": "Statut",
+            "WARNING": "Avertissement",
+            "PAYMENT": "Paiement",
+            "PAYMENT_ERROR": "Erreur de paiement"
+        },
+        "message": "Message"
+    },
+    "invoiceEventMessage": {
+        "create": {
+            "label": "Créer un nouveau commentaire",
+            "mutationLabel": "Créer un message d'événement de facture pour {invoiceCode}"
+        }
+    },
+    "bill": {
+        "pageTitle": "Bill {label}",
+        "headPanelTitle": "Informations générales",
+        "subject": "Sujet",
+        "thirdparty": "Expéditeur",
+        "code": "Code",
+        "codeTp": "Code Sender",
+        "codeExt": "Code Système externe",
+        "dateDue": "Date d'échéance",
+        "dateBill": "Date Bill",
+        "dateValidFrom": "De",
+        "dateValidTo": "A",
+        "datePayed": "Date de paiement",
+        "amountDiscount": "Remise",
+        "amountNet": "Net",
+        "taxAnalysis": "Taxe",
+        "amountTotal": "Montant Total",
+        "status": {
+            "label": "Statut",
+            "DRAFT": "Draft",
+            "VALIDATED": "Validé",
+            "PAYED": "Payé",
+            "CANCELLED": "Annulé",
+            "DELETED": "Supprimé",
+            "SUSPENDED": "Suspendu"
+        },
+        "currencyTpCode": "Monnaie Tiers",
+        "currencyCode": "Monnaie",
+        "note": "Note",
+        "terms": "Conditions",
+        "paymentReference": "Référence de paiement",
+        "delete": {
+            "confirm": {
+                "title": "Supprimer {code} ?",
+                "message": "La suppression des données ne signifie pas leur effacement de la base de données openIMIS. La donnée sera seulement désactivée de la liste consultée."
+            },
+            "mutationLabel": "Supprimer le projet de loi {code}"
+        }
+    },
+    "bills": {
+        "pageTitle": "Factures",
+        "searcherResultsTitle": "{billsTotalCount} Factures trouvées"
+    },
+    "billItems": {
+        "label": "Articles de ligne",
+        "searcher": {
+            "resultsTitle": "{billLineItemsTotalCount} Articles de ligne trouvés"
+        }
+    },
+    "billItem": {
+        "code": "Code",
+        "description": "Description",
+        "ledgerAccount": "Compte de grand livre",
+        "quantity": "Quantité",
+        "unitPrice": "Prix unitaire",
+        "discount": "Remise",
+        "deduction": "Déduction",
+        "amountTotal": "Montant Total",
+        "amountNet": "Montant net",
+        "amountNetTooltip": "Taxe : {valeur}"
+    },
+    "billPayments": {
+        "label": "Paiements",
+        "searcherResultsTitle": "{billPaymentsTotalCount} Paiements trouvés"
+    },
+    "billPayment": {
+        "status": {
+            "label": "Statut",
+            "REJECTED": "Rejeté",
+            "ACCEPTED": "Accepté",
+            "REFUNDED": "Remboursé",
+            "CANCELLED": "Annulé"
+        },
+        "codeExt": "Code",
+        "label": "Étiquette",
+        "codeTp": "Code Tiers",
+        "codeReceipt": "Numéro du reçu",
+        "amountPayed": "Montant payé",
+        "fees": "Droits d'inscription",
+        "amountReceived": "Montant reçu",
+        "datePayment": "Date de paiement",
+        "paymentOrigin": "Origine du paiement",
+        "create": {
+            "label": "Créer un nouveau paiement",
+            "mutationLabel": "Créer un paiement de facture {billPaymentLabel} pour {billCode}."
+        },
+        "update": {
+            "label": "Mise à jour du paiement",
+            "mutationLabel": "Mise à jour du paiement de la facture {billPaymentLabel} de {billCode}."
+        },
+        "delete": {
+            "confirm": {
+                "title": "Supprimer {billPaymentLabel} ?",
+                "message": "La suppression des données ne signifie pas leur effacement de la base de données openIMIS. La donnée sera seulement désactivée de la liste consultée."
+            },
+            "mutationLabel": "Supprimer le paiement de la facture {billPaymentLabel} de {billCode}."
+        }
+    },
+    "billEvents": {
+        "label": "Événements",
+        "searcherResultsTitle": "{billEventsTotalCount} Événements trouvés"
+    },
+    "billEvent": {
+        "eventType": {
+            "label": "Type",
+            "MESSAGE": "Message",
+            "STATUS": "Statut",
+            "WARNING": "Avertissement",
+            "PAYMENT": "Paiement",
+            "PAYMENT_ERROR": "Erreur de paiement"
+        },
+        "message": "Message"
+    },
+    "billEventMessage": {
+        "create": {
+            "label": "Créer un nouveau commentaire",
+            "mutationLabel": "Créer un message d'événement de facture pour {billCode}"
+        }
+    },
+    "paymentInvoices": {
+        "label": "Paiements",
+        "searcherResultsTitle": "{paymentInvoicesTotalCount} Paiements trouvés"
+    },
+    "paymentInvoice": {
+        "reconciliationStatus": {
+            "label": "Statut de réconciliation",
+            "NOT_RECONCILIATED": "Non réconcilié",
+            "RECONCILIATED": "Réconcilié",
+            "REFUNDED": "Remboursé",
+            "CANCELLED": "Annulé"
+        },
+        "status": {
+            "label": "Statut",
+            "REJECTED": "Rejeté",
+            "ACCEPTED": "Accepté",
+            "REFUNDED": "Remboursé",
+            "CANCELLED": "Annulé"
+        },
+        "codeExt": "Code",
+        "label": "Étiquette",
+        "codeTp": "Code Tiers",
+        "codeReceipt": "Numéro du reçu",
+        "fees": "Droits d'inscription",
+        "amountReceived": "Montant reçu",
+        "datePayment": "Date de paiement",
+        "paymentOrigin": "Origine du paiement",
+        "payerRef": "Référence du payeur",
+        "payerName": "Nom du payeur",
+        "create": {
+            "label": "Créer un nouveau paiement",
+            "mutationLabel": "Créez le paiement {paymentInvoiceLabel} pour {code}"
+        },
+        "update": {
+            "label": "Mise à jour du paiement",
+            "mutationLabel": "Mise à jour du paiement {paymentInvoiceLabel} de {code}"
+        },
+        "delete": {
+            "confirm": {
+                "title": "Supprimer {paymentInvoiceLabel} ?",
+                "message": "La suppression des données ne signifie pas leur effacement de la base de données openIMIS. La donnée sera seulement désactivée de la liste consultée."
+            },
+            "mutationLabel": "Supprimer le paiement {labelFacturePaiement} de {code}"
+        }
+    },
+    "detailPaymentInvoice": {
+        "status": {
+            "label": "Statut",
+            "REJECTED": "Rejeté",
+            "ACCEPTED": "Accepté",
+            "REFUNDED": "Remboursé",
+            "CANCELLED": "Annulé"
+        },
+        "fees": "Droits d'inscription",
+        "amount": "Montant",
+        "reconciliationId": "Id de réconciliation",
+        "reconciliationDate": "Date de réconciliation"
+    },
+    "claim.edit.services.MaxApproved": "La quantité définie est supérieure à la quantité approuvée pour cet élément. Vous ne serez remboursé que pour {totalApproved} élément(s)",
+    "location.Location0Picker.label": "Région",
+    "location.Location1Picker.label": "District",
+    "insuree.IdentificationType.F": "Fiche d'identification",
+    "claim.codechfId": "Préfixe Prestation",
+    "insuree.Insuree.dead": "Décédé ?",
+    "insuree.Insuree.dod": "Date de décès",
+    "insuree.Insuree.deathreason": "Raison du décès",
     "claim.ClaimFilter.processedDateFrom": "Traité à partir de",
     "claim.ClaimFilter.processedDateTo": "Traité jusqu'à",
     "claim.claimSummaries.processedDate": "Traité le",
+    "claim.edit.services.code": "",
+    "claim.edit.services.name": "",
+    "claim.edit.services.priceAppro": "",
     "tools.RegistersPage.cancelBtn": "Annuler",
-    "tools.RegistersPage.UploadDialog.confirmLocations": "Voulez-vous vraiment téléverser une nouvelle liste de  lieux ?",
-    "tools.RegistersPage.UploadDialog.confirmHF": "Voulez-vous vraiment téléverser une nouvelle liste de formations sanitaires ?",
+    "tools.RegistersPage.UploadDialog.confirmLocations": "Voulez-vous vraiment téléverser une nouvelle liste de sites ?",
+    "tools.RegistersPage.UploadDialog.confirmHF": "Voulez-vous vraiment téléverser une nouvelle liste d'installations de santé ?",
     "tools.RegistersPage.UploadDialog.confirmDiagnoses": "Voulez-vous vraiment téléverser une nouvelle liste de diagnostics ?",
     "tools.RegistersPage.UploadDialog.confirmItems": "Voulez-vous vraiment téléverser une nouvelle liste de produits médicaux ?",
     "tools.RegistersPage.items.uploadLabel": "Téléverser produits médicaux",
