@@ -1,10 +1,10 @@
-import messages_fr from "./translations/fr.json";
-import flatten from "flat";
+import messages_km from "./translations/km.json";
+//import messages_fr from "./translations/fr.json";
 
 const DEFAULT_CONFIG = {
-  "translations": [{ key: 'fr', messages: flatten(messages_fr) }],
+  "translations": [{ key: 'km', messages: messages_km}],
 }
 
-export const LanguageFrModule = (cfg) => {
+export const LanguagekmModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 }
