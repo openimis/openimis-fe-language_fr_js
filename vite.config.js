@@ -16,7 +16,7 @@ export default defineConfig({
       external: [
         /^@babel.*/,
         /^@date-io\/.*/,
-        /^@material-ui\/.*/,
+        /^@mui\/.*/,
         /^@openimis.*/,
         'classnames',
         'clsx',
