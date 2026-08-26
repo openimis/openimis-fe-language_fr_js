@@ -3160,5 +3160,14 @@
     "product.ageMinimal": "Âge minimum",
     "product.ageMaximal": "Âge maximum",
     "socialProtection.benefitPlan.benefitPlanBeneficiaries.upload.alert.header.invalid_format": "Format de fichier non valide !",
-    "socialProtection.benefitPlan.benefitPlanBeneficiaries.upload.alert.message.invalid_format": "Veuillez télécharger un fichier CSV ou Excel valide !"
+    "socialProtection.benefitPlan.benefitPlanBeneficiaries.upload.alert.message.invalid_format": "Veuillez télécharger un fichier CSV ou Excel valide !",
+    "claimHistory.code": "Code",
+    "claimHistory.dateClaimed": "Date de réclamation",
+    "claimHistory.dateProcessed": "Date de traitement",
+    "claimHistory.feedbackStatus": "Statut de feedback",
+    "claimHistory.reviewStatus": "Statut de revue",
+    "claimHistory.claimed": "Réclamé",
+    "claimHistory.approved": "Approuvé",
+    "claimHistory.status": "Statut",
+    "claimHistory.restoreId": "ID de restauration"
 }
