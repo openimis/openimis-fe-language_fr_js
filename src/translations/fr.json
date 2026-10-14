@@ -2875,6 +2875,8 @@
     "socialProtection.rejectAll": "Rejeter tout",
     "socialProtection.atomicApprove": "Souhaitez-vous approuver cette tâche pour les enregistrements de {count}?",
     "socialProtection.bulkApprove": "Souhaitez-vous approuver cette tâche pour tous les enregistrements ?",
+    "socialProtection.atomicReject": "Souhaitez-vous rejeter cette tâche pour {count} enregistrements ?",
+    "socialProtection.bulkReject": "Souhaitez-vous rejeter cette tâche pour tous les enregistrements ?",
     "socialProtection.taskConfirmation.title": "Confirmation de téléchargement du bénéficiaire",
     "socialProtection.dialogActions.continue": "Continuer",
     "socialProtection.dialogActions.goBack": "Retourner",
